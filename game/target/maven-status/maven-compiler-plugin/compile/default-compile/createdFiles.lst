@@ -1,0 +1,11 @@
+com\quiz\game\MyResource.class
+com\quiz\game\Termsandconditions.class
+com\quiz\game\question.class
+com\quiz\game\UserDao.class
+com\quiz\game\Multiplechoice.class
+com\quiz\game\User.class
+com\quiz\game\ResponseFormat.class
+com\quiz\game\CrossFilter.class
+com\quiz\game\Db.class
+com\quiz\game\UserResource.class
+com\quiz\game\Submitanswers.class

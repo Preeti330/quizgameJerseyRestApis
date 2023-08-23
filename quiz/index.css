@@ -1,0 +1,124 @@
+.hero{
+    padding: 6vh 2vw;   
+}
+
+.container{
+    
+    background-color: rgb(241, 244, 246);
+    /* background-repeat: no-repeat; */
+    /* background-size: contain; */
+    height: 100vh;
+}
+
+.tab{
+    background-image: url("https://www.tvsk.o.se/wp-content/uploads/2023/07/quiz.jpg");
+     background-repeat: no-repeat; 
+     background-size: cover;
+     height: 100vh;
+}
+
+.login{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin: auto 0;
+
+}
+
+form {
+    display: inline-block;
+}
+
+.header{
+    text-align: center;
+    margin: auto 0;
+}
+
+.list{
+    line-height: 3;
+    line-height: 3;
+    padding: 0 13%;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+}
+
+.terms{
+    padding-top: 5%;
+    width: 100px;
+    height: 100px;
+    width: 80%;
+    height: 70vh;
+   /* // margin: auto; */
+    background: rgb(239, 236, 236);
+    margin: 5% 10%;
+    box-shadow: 15px 15px 15px #888888;
+
+}
+
+.addanimination{
+   
+}
+.list ul{
+    margin: auto 0;
+    padding: 0 13%;
+}
+
+.testoption{
+    text-align: center;
+    margin: auto 0;
+}
+
+.header  h1{
+    font-size: 2.5rem;
+    font-style: italic;
+    font-weight: 700;
+    text-shadow: 5px 5px 10px rgb(79, 80, 80);
+}
+
+.displaycss{
+    /* background-color: rgb(208, 246, 253);
+    height: 200px;
+    /* margin-top: -40px; */
+    /* margin: 0 auto;
+    width: 100%;
+    border: 2px soild whitesmoke;
+    opacity: 2; */ 
+    display: none;
+    position: absolute;
+    width: 42.5%;
+    height: 100%;
+    top: 6%;
+    left: 50%;
+    bottom: 20%;
+    background-color: rgba(32, 36, 39, 0.5);
+    cursor: pointer;
+    opacity: 2;
+   
+
+  }
+
+  .sucessMsg{
+    margin: auto 0;
+    text-align: center;
+    padding-top: 18%;
+    font-size: 56px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: 700;
+    
+  }
+
+  .anchorSucces{
+    margin: auto 0;
+    text-align: center;
+    padding: -20% 0;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #1e3dd7;
+    font-weight: 500;
+    
+  }
+  .loginsucess{
+   
+  }
